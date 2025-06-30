@@ -49,7 +49,7 @@ Product filtering, sorting, and search features.
 ![Screenshot 2025-06-30 213859](https://github.com/user-attachments/assets/9546fd4c-ac96-4a8b-bb85-acf00065e850)
 ![Screenshot 2025-06-30 213911](https://github.com/user-attachments/assets/ec7f05b3-d4da-4f9d-91f6-438479abc92e)
 ![Screenshot 2025-06-30 213926](https://github.com/user-attachments/assets/2ea57d50-51b5-4300-8e6f-5b697630e65d)
-![Screenshot 2025-06-30 213938](https://github.com/user-attachments/assets/b6caaf56-da7b-4b7d-89a1-2c7596![Screenshot 2025-06-30 213958](https://github.com/user-attachments/assets/eceec32a-a9a3-4f64-aa33-1d4fdddf7c4d)
 a31a5d)
 ![Screenshot 2025-06-30 214009](https://github.com/user-attachments/assets/67f2e215-95af-43a6-b42c-6d8e51034fea)
 ![Screenshot 2025-06-30 214919](https://github.com/user-attachments/assets/83607967-4fcc-41dd-a7d9-5ae6aafe5ef2)
+![Screenshot 2025-06-30 213938](https://github.com/user-attachments/assets/b6caaf56-da7b-4b7d-89a1-2c7596![Screenshot 2025-06-30 213958](https://github.com/user-attachments/assets/eceec32a-a9a3-4f64-aa33-1d4fdddf7c4d) a31a5d)
